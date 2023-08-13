@@ -1,0 +1,98 @@
+# Compiled output
+bin/
+obj/
+
+# Local configuration
+.vscode/
+*.userprefs
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+packages/
+*.paket/paket.exe
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code
+.vscode/
+
+# VS
+.vs/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Xamarin
+packages/
+*.apk
+*.ap_
+*.xap
+*.xip
+*.aab
+
+# Unity
+[Ll]ibrary/
+[Ll]ocal[Ll]ibrary/
+[Ll]ibrary.log
+[Ll]og
+[Bb]uild/
+[Bb]uilds/
+[Tt]emp/
+[Tt]mps/
+Obj/
+[Oo]bj/
+[Uu]nityGenerated/
+ExportedObj/
+[Oo]utput/
+[Ll]ogs/
+
+# Rider
+.idea
